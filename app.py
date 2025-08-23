@@ -65,3 +65,5 @@ if price>0:
 else:
     body = 'Invalid House features Values'
     st.warning(body)
+
+st.markdown('Designed by: **Dhruv Agnihotri**')
